@@ -1,0 +1,41 @@
+Commands to run :
+appium-doctor android
+appium driver install xcuitest
+appium driver install uiautomator2
+npm install appium@next
+appium driver list
+
+npm init -y
+npm install @wdio/cli
+npx wdio config
+
+
+
+Issues : 
+https://github.com/appium/appium/issues/14144
+
+Command to run tests : 
+npx wdio
+
+To run appium server : 
+appium -p 4724
+
+In Appium Inspetor : 
+{
+  "platformName": "Android",
+  "appium:platformVersion": "10",
+  "appium:deviceName": "Nexus S",
+  "appium:app": "C:\\Users\\SESA620164\\Documents\\EPDESetUp\\Appium_Wdio\\app\\android\\ApiDemos-debug.apk",
+  "appium:automationName": "UIAutomator2"
+}
+remote port : 4724
+
+Android Studio:
+Run the emulators in the path.
+adb -s emulator Nexus 4 emu kill
+adb -s emulator Pixel 3 emu kill
+
+To Check the devices :
+adb devices
+Open the appium inspector
+open the android studio and start the emulators.
