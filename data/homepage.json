@@ -1,0 +1,7 @@
+{
+    "SecureSurface": "Secure Surfaces",
+    "appPackage": "io.appium.android.apis",
+    "AlertAppActivity": "io.appium.android.apis.app.AlertDialogSamples",
+    "InputBoxAppActivity": "io.appium.android.apis.app.view.AutoComplete1"
+
+}

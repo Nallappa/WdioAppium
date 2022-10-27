@@ -1,0 +1,16 @@
+{
+    "app": "~App", 
+    "Action Bar": "~Action Bar",
+    "Voice": "Voice Recognition",
+    "Activity": "~Activity",
+    "SecureSurfaces": "~Secure Surfaces",
+    "AllElements":"android.widget.TextView",
+    "AlertDialogBox":"~OK Cancel dialog with a message",
+    "Views": "~Views",
+    "Buttons": "~Buttons",
+    "WebView": "~WebView",
+    "Normal": "~Normal",
+    "AutoComplete": "~Auto Complete",
+    "SreenTop": "~1. Screen Top",
+    "textField": "//*[@resource-id='io.appium.android.apis:id/edit']"
+}
